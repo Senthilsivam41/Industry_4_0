@@ -58,6 +58,3 @@ Siemens is pioneering industrial transformation through innovations like the IFM
 Citations:
 [1] https://content.techgig.com/technology/siemens-introduces-revolutionary-industrial-ai-and-automation-solutions-at-hannover-messe-2025/articleshow/119818609.cms
 [2] https://content.techgig.com/technology/siemens-introduces-revolutionary-industrial-ai-and-automation-solutions-at-hannover-messe-2025/articleshow/119818609.cms
-
----
-Answer from Perplexity: https://www.perplexity.ai/search/consolidate-the-approach-on-ho-xa0YGhrpTsCwj2VTKk5a7g?0=d&utm_source=copy_output
