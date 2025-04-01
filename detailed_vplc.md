@@ -1,15 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# Please rewrite the article with relevant images from website about vPLC and detail on how it can be deployed on Machine. What type of Machine will support vPLC
-
----
-
-# Please rewrite the article with relevant images from website about vPLC and detail on how it can be deployed on Machine. What type of Machine will support vPLC
-
-Here’s a rewritten technical overview of vPLCs with deployment guidance and supported machine types, incorporating insights from the search results:
-
----
-
 ## **Virtual PLC (vPLC) Deployment Guide**
 
 *(Note: Imagery would typically include diagrams of vPLC architecture, edge servers, and industrial machines. Example concepts: "Centralized vPLC orchestration dashboard," "vPLC integration in a manufacturing line," "Edge server hardware stack.")*
