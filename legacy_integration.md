@@ -1,14 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# Can vPLCs be integrated with legacy automation systems
-
----
-
-# Can vPLCs be integrated with legacy automation systems
-
-Yes, vPLCs (Virtual Programmable Logic Controllers) can be seamlessly integrated with legacy automation systems through **protocol compatibility**, **code adaptation**, and **phased deployment strategies**. Here’s how:
-
----
 
 ## **Key Integration Methods**
 
